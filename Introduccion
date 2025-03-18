@@ -1,0 +1,11 @@
+Proposito de este repositorio
+Este repositorio tiene el fin de informar, explicar y demostrar como funcionan ciertos tipos de algoritmos de ordenamiento, utilizando un diagrama grafico explicando el proceso del algoritmo en pseudocodigo,
+analisis de los diferentes tipos de caso para cada algoritmo (worst,best,average) con tablas de complejidad temporal para los distintos tamaños de entrada, la implementacion de los algoritmos en python, codigo
+implementado para representar los tiempos de espera bajo ciertas circunstancias y al final presentamos nuestras conclusiones comparativas.
+
+Importancia de algoritmos de ordenamiento
+Los algoritmos de ordenamiento son esenciales para la gestion de datos en bases de datos, el entendimiento de los diferentes tipos de algoritmos nos ayuda a decidir el mejor escenario para cada tipo de algoritmo
+mejorando la eficiencia al momento de ordernar datos y ahorrando recursos al procesar la informacion.
+
+Lista de algoritmos:
+-MergeSort

@@ -1,3 +1,5 @@
+INTRODUCCIÓN 
+
 Proposito de este repositorio
 Este repositorio tiene el fin de informar, explicar y demostrar como funcionan ciertos tipos de algoritmos de ordenamiento, utilizando un diagrama grafico explicando el proceso del algoritmo en pseudocodigo,
 analisis de los diferentes tipos de caso para cada algoritmo (worst,best,average) con tablas de complejidad temporal para los distintos tamaños de entrada, la implementacion de los algoritmos en python, codigo
